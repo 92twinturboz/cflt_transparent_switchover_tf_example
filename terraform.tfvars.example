@@ -1,0 +1,11 @@
+# All variables are optional; defaults follow the tutorial.
+# primary_env_name    = "east-env"
+# secondary_env_name  = "west-env"
+# org                 = "00000000-0000-0000-0000-000000000000" # looked up when omitted
+# pair_env            = "env-xxxxxx"                           # defaults to the east-env ID
+# cloud               = "AWS"
+# primary_region      = "us-east-1"
+# secondary_region    = "us-west-2"
+# cku                 = 2
+# client_principal_id = "sa-zzzzzz" # or pool-zzzzzz for OAuth; omit to create one
+# verify_mirror_topic = true        # set after the mirror topic has appeared
